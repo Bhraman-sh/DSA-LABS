@@ -1,0 +1,1 @@
+fgets(in, sizeof(in), stdin);
